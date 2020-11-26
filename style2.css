@@ -1,0 +1,83 @@
+.container-23 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    background-color: black;
+    width: 1000px;
+    height: 600px;
+    padding-top: 50px;
+    margin: 0 300px;
+}
+
+.container-24 {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-evenly;
+    background-color: yellow;
+    width: 400px;
+    height: 550px;
+}
+
+.container-24a {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: orange;
+    width: 300px;
+    height: 100px;
+}
+.container-24a-item {
+    background-color: pink;
+    width: 200px;
+    height: 15px;
+}
+
+.container-24b {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: blue;
+    width: 300px;
+    height: 150px;
+}
+
+.container-24b-item {
+    background-color: saddlebrown;
+    width: 200px;
+    height: 15px;
+}
+
+.container-24c {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: gray;
+    width: 300px;
+    height: 100px;
+}
+
+.container-24c-item {
+    background-color: salmon;
+    width: 200px;
+    height: 15px;
+}
+
+.container-25 {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: darkmagenta;
+    width: 400px;
+    height: 550px;
+}
+
+.container-25-item {
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 40px;
+    padding: 0.5px;
+}
